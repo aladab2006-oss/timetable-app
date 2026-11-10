@@ -1,0 +1,6 @@
+{
+  "appId": "com.timetable.app",
+  "appName": "جدول الدروس",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
